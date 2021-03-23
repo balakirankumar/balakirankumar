@@ -2,7 +2,7 @@
 - 👀 I’m interested in always learnig and practice and keep on experimenting 
 - 🌱 I’m currently learning Python's web frameworks
 - 💞️ I’m looking to collaborate not yet decided
-- 📫 How to reach me balakirankumar
+- 📫 How to reach me balakirankumar999@gmail.com
 
 <!---
 balakirankumar/balakirankumar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
