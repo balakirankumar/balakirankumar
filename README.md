@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @balakirankumar
 - 👀 I’m interested in always learnig and practice and keep on experimenting 
 - 🌱 I’m currently learning Python's web frameworks
-- 💞️ I’m looking to collaborate not yet decided
+- 💞️ I’m interested to dive into Data Science, Machine Learning.
 - 📫 How to reach me balakirankumar999@gmail.com
 
 <!---
